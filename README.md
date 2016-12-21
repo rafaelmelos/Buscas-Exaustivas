@@ -1,16 +1,16 @@
 # Buscas_Exaustivas
 Implementação dos algoritmos de busca exaustiva e aplicação no problema das 8 rainhas.
 
-Buscas exaustivas implementadas:
+### Buscas exaustivas implementadas:
 
-	-> Busca em profundidade (recomendado);
-	-> Busca em largura;
-	-> Busca por profundidade limitada.
-	-> Busca em aprofundamento iterativo.
+  - Busca em profundidade (recomendado);
+  - Busca em largura;
+  - Busca por profundidade limitada.
+  - Busca em aprofundamento iterativo.
 
-O Problema das 8 rainhas:
- Nesse jogo, é dado um tabuleiro quadrado de 8 por 8 (ou seja, 64 posições).
- Para vencer o jogo, o jogador deve adicionar 8 rainhas ao tabuleiro de modo que nenhuma rainha
+### O Problema das 8 Rainhas
+Nesse jogo, é dado um tabuleiro quadrado de 8 por 8 (ou seja, 64 posições).
+Para vencer o jogo, o jogador deve adicionar 8 rainhas ao tabuleiro de modo que nenhuma rainha
 fique na região de ataque da outra. A região de ataque de uma rainha compreende todas as posições
 do tabuleiro que estiverem na mesma linha, coluna ou diagonal da posição onde essa rainha estiver
 posicionada.
